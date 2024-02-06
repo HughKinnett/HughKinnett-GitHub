@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-image: linear-gradient(black, blue, purple);
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
