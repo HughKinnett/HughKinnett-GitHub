@@ -28,20 +28,20 @@ img{
     margin-left: 600px;
 }
 .photo-link{
-    color: black;
+    color: white;
 }
 .photo-link:hover{
     color: red;
 }
 #link{
-    color: black;
+    color: white;
 
 }
 #link:hover{
     color: red;
 }
 .YouTube-link{
-    color: black;
+    color: white;
 }
 .YouTube-link:hover{
     color:red;
