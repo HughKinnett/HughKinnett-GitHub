@@ -56,3 +56,17 @@ img{
     margin-left: 600px;
     margin-right: 600px;
 }
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 18px;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    .photo-text, .quote {
+        padding: 10px;
+    }
+}
