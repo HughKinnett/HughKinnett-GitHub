@@ -29,3 +29,12 @@ h1{
 .YouTube-link{
     color: white;
 }
+.YouTube-link:hover{
+    color: red;
+}
+.photo-link:hover{
+    color: red;
+}   
+.link:hover{
+    color: red;
+}
