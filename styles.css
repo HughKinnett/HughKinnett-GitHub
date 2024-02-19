@@ -68,6 +68,8 @@ img{
     .photo-text, .quote {
         padding: 10px;
         margin: 0 10px; /* Add some horizontal margin */
+        margin-top: auto;
+        margin-bottom: auto;
         position: static; /* Use static positioning on small screens */
     }
 }
