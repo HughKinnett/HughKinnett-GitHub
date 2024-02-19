@@ -51,14 +51,14 @@ img{
 .YouTube-link:hover{
     color:red;
 }
-.quote{
+.quote {
     color: white;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin: 0 auto; /* Center the quote on all screen sizes */
+    max-width: 80%; /* Prevent the quote from taking up too much horizontal space */
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 18px;
+        font-size: 16px; /* Smaller font size for smaller screens */
     }
 
     img {
@@ -68,10 +68,7 @@ img{
 
     .photo-text, .quote {
         padding: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        top: 0;
-        position: absolute;
-        height: auto;
+        margin: 0 10px; /* Add some horizontal margin */
+        position: static; /* Use static positioning on small screens */
     }
 }
