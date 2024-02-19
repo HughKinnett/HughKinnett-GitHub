@@ -9,6 +9,7 @@ img {
     height: 300px;
     display: block;
     margin: auto;
+    transform: perspective(1000px);
 }
 .photo-text {
     text-align: center;
