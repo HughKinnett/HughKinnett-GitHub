@@ -21,6 +21,11 @@ p{
 h1{
     color: white
 }
+.quote {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
 .link{
     color: white;
 }
