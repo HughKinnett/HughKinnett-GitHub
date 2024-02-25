@@ -3,10 +3,38 @@ body{
 }
 h1{
     color: white;
+    right: 600px;
+    text-align: center;
+    
 }
 h2{
     color: white;
+    text-align: center;
 }
 p{
     color: white;
+    text-align: center;
+}
+.topbuttons{
+   text-align: center;
+}
+.home{
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
+.about{
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
+.blog{
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
+.portfolio{
+    background-color: black;
+    color: white;
+    font-size: medium;
 }
