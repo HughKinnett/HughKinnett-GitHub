@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-image: linear-gradient(blue, black, blue, black);
 }
 .firstblogpost{
     text-align: center;
