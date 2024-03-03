@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.firstblogpost{
+    text-align: center;
+    height: 300px;
+    width: 400px;
+}
+h1{
+    color: white;
+    font-size: 15px;
+}
