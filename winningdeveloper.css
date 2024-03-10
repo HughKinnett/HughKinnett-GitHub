@@ -19,4 +19,7 @@ body{
         color: white;
         text-align: center;
     }
+    .link:hover{
+        color:red;
+    }
     
