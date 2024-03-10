@@ -10,6 +10,13 @@ h1{
     color: white;
     font-size: 15px;
 }
-.topbuttons{
+.topbuttons {
+    border: none;
+    padding: 15px 32px;
     text-align: center;
- }
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20%;
+    margin-right: 12%;
+}
