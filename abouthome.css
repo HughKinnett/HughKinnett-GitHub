@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.QTXLgaeG9Cy4PONDJAshLAAAAA?rs=1&pid=ImgDetMain');
+}
+body::before {
+    content: "image";
+    background-image: url('https://th.bing.com/th/id/OIP.QTXLgaeG9Cy4PONDJAshLAAAAA?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+}
+h1{
+    color: whitesmoke;
+    right: 600px;
+    text-align: center;
+     
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+.topbuttons{
+    text-align: center;
+ }
