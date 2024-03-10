@@ -22,4 +22,7 @@ body{
     .link:hover{
         color:red;
     }
+    .topbuttons{
+        text-align: center;
+     }
     
