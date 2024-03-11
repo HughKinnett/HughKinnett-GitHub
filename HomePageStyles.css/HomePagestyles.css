@@ -52,7 +52,21 @@ img {
     display: inline-block;
     font-size: 16px;
 }
-.twitter{
+.Twitter{
     color: black;
     font-size: x-large;
+}
+.LinkedIn{
+    color: black;
+    font-size: x-large;
+}
+.TwitterButton{
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+.LinkedInButton{
+    background-color: black;
+    color: white;
+    font-size: larger;
 }
