@@ -1,5 +1,8 @@
-body{
-    background-image: linear-gradient(blue, black, black, blue);
+.bg{
+    
+        background-image: url("dark computer image for homepage.jpg");
+        background-repeat: no-repeat;
+    }
 }
 h1{
     color: white;
@@ -19,39 +22,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 } 
-.topbuttons{
-   text-align: center;
-}
-.home{
-    background-color: black;
-    color: white;
-    font-size: medium;
-}
-.about{
-    background-color: black;
-    color: white;
-    font-size: medium;
-}
-.blog{
-    background-color: black;
-    color: white;
-    font-size: medium;
-}
-.portfolio{
-    background-color: black;
-    color: white;
-    font-size: medium;
-}
-.topbuttons {
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
 .Twitter{
     color: black;
     font-size: x-large;
@@ -75,4 +46,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.nav-item{
+    color: black;   
 }
